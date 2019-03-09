@@ -68,7 +68,7 @@ Javascript:
 	</script>
 
 
-The ('.preloader') function is triggered first. It was important to include the .mask attribute. As it prevents errors common error that arises when the user reloads the page from a lower section of the website. Thus it's important to create a white div which slowly fades out as soon as the pre loader is done. This provides a safety div between the preloader and the actual website and makes the transition smooth. 
+The ('.preloader') function is triggered first. It was important to include the ('.mask') attribute. As it prevents errors common error that arises when the user reloads the page from a lower section of the website. Thus it's important to create a white div which slowly fades out as soon as the pre loader is done. This provides a safety div between the preloader and the actual website and makes the transition smooth. 
 
 This method of using a Pre-Loader is simple and easy but not much dynamic.
 
@@ -77,4 +77,8 @@ This method of using a Pre-Loader is simple and easy but not much dynamic.
 
 
 # 2. SVG
+
+
+
+
 
